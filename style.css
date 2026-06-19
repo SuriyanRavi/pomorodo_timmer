@@ -1,4 +1,4 @@
-/* *{
+*{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
@@ -51,4 +51,4 @@ button{
 }
 button:active{
     background-color: rgb(204, 196, 236);
-} */
+}
